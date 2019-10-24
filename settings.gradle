@@ -1,0 +1,5 @@
+rootProject.name = 'MultiplatformParcelize'
+include 'multiplatform-parcelize'
+
+
+enableFeaturePreview('GRADLE_METADATA')
